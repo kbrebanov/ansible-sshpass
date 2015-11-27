@@ -1,0 +1,5 @@
+---
+# vars file for sshpass (Ubuntu specific)
+
+sshpass_packages:
+  - sshpass
