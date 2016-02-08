@@ -1,7 +1,7 @@
 sshpass
 =======
 
-[![Ansible Role](https://img.shields.io/ansible/role/6255.svg)](https://galaxy.ansible.com/list#/roles/6255)
+[![Build Status](https://travis-ci.org/kbrebanov/ansible-sshpass.svg?branch=master)](https://travis-ci.org/kbrebanov/ansible-sshpass)
 
 Installs sshpass
 
